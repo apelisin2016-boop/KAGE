@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#12151c"/>
+  <polygon
+    points="16,3 27.5,9.7 27.5,22.3 16,29 4.5,22.3 4.5,9.7"
+    fill="#c8ccd4"/>
+  <!-- Kanji-like 彡 slash, two thick cuts — reads at 16px -->
+  <polygon points="11,8 24,16.2 21.2,19.4 8.2,11.2" fill="#12151c"/>
+  <polygon points="12.5,18 23,24.4 20.4,27.2 9.9,20.8" fill="#12151c"/>
+</svg>
